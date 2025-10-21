@@ -30,9 +30,7 @@ O objetivo foi **replicar fielmente as páginas demonstradas no curso** e criar 
 - 🥧 **Gráfico de Pizza:** Lucro por Produto
 - 🎚️ **Segmentador:** Filtro por Ano ou Segmento
 
-🖼️ *Layout sugerido:*  
-Cards no topo → gráficos no meio → slicer à direita.
-
+![alt text](image.png)
 ---
 
 ### 🟩 **Página 2 – Lucro por País**
@@ -44,7 +42,7 @@ Cards no topo → gráficos no meio → slicer à direita.
 - 🧩 **Gráfico de Pizza:** Lucro por Segmento  
 - 🎚️ **Slicer:** Filtro por Segmento ou Ano
 
-🧭 *Insight:* países com maior contribuição de lucro aparecem com coloração destacada.
+![alt text](image-1.png)
 
 ---
 
@@ -57,7 +55,7 @@ Cards no topo → gráficos no meio → slicer à direita.
 - 🔹 KPI adicional de crescimento percentual  
 - 🔹 Tooltip customizada com informações detalhadas  
 
-💡 *Diferencial:* design minimalista em estilo dashboard executivo com cores neutras e ícones vetoriais.
+![alt text](image-2.png)
 
 ---
 
@@ -67,3 +65,40 @@ Cards no topo → gráficos no meio → slicer à direita.
 Total Sales = SUM(Financials[Sales])
 Total Profit = SUM(Financials[Profit])
 Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+
+```
+Essas medidas foram aplicadas aos cartões principais e utilizadas como base para os gráficos comparativos e de tendência.
+
+## 🗂️ Estrutura de Pastas do Repositório
+``` Desafio-PowerBI-DIO/
+| powerbi-desafio
+├── 📁 dados/
+  └── Financial Sample.xlsx
+  └── relatorio-powerbi.pbix
+  └── Business Unit.csv
+  └── Customer.csv
+  └── Dates.csv
+├── 📁 imagens/
+│ ├── pagina1.png
+│ ├── pagina2.png
+│ └── pagina3.png
+└── 📄 README.md
+````
+## 🌐 Publicação
+
+O relatório foi publicado no Power BI Service, permitindo visualização e interação online.
+(Link público opcional: adicione aqui caso tenha compartilhado o relatório.)
+___
+## 💡 Aprendizados
+
+Durante o desenvolvimento do desafio, foram reforçados os seguintes conceitos:
+
+- Criação de medidas DAX simples e derivadas.
+
+- Boas práticas de design para dashboards executivos.
+
+- Uso de filtros, segmentadores e interatividade entre visuais.
+
+- Estruturação de layout no Power BI Desktop.
+
+- Publicação e compartilhamento de relatórios no Power BI Service.
