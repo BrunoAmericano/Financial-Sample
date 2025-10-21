@@ -55,7 +55,7 @@ O objetivo foi **replicar fielmente as páginas demonstradas no curso** e criar 
 - 🔹 KPI adicional de crescimento percentual  
 - 🔹 Tooltip customizada com informações detalhadas  
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 ---
 
