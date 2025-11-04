@@ -30,7 +30,7 @@ O objetivo foi **replicar fielmente as páginas demonstradas no curso** e criar 
 - 🥧 **Gráfico de Pizza:** Lucro por Produto
 - 🎚️ **Segmentador:** Filtro por Ano ou Segmento
 
-![alt text](image.png)
+![alt text](https://github.com/BrunoAmericano/Financial-Sample/blob/main/powerbi-desafio/Modulo1/Imagens/power%201.png?raw=true)
 ---
 
 ### 🟩 **Página 2 – Lucro por País**
@@ -42,7 +42,7 @@ O objetivo foi **replicar fielmente as páginas demonstradas no curso** e criar 
 - 🧩 **Gráfico de Pizza:** Lucro por Segmento  
 - 🎚️ **Slicer:** Filtro por Segmento ou Ano
 
-![alt text](image-1.png)
+![alt text](https://github.com/BrunoAmericano/Financial-Sample/blob/main/powerbi-desafio/Modulo1/Imagens/power%202.png?raw=true)
 
 ---
 
@@ -55,7 +55,7 @@ O objetivo foi **replicar fielmente as páginas demonstradas no curso** e criar 
 - 🔹 KPI adicional de crescimento percentual  
 - 🔹 Tooltip customizada com informações detalhadas  
 
-![alt text](image-3.png)
+![alt text](https://github.com/BrunoAmericano/Financial-Sample/blob/main/powerbi-desafio/Modulo1/Imagens/power%203.png?raw=true)
 
 ---
 
